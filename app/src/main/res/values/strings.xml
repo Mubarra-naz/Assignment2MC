@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Assignment2MC</string>
+    <string name="app_name">MCAssignment222</string>
+    <string name="cam">Upload cover picture</string>
+    <string name="todo">description</string>
 </resources>
